@@ -1,0 +1,37 @@
+1) Geração de uma LSE ode os elemenos inseridos na ordem inversa em que forem obtidos.
+
+2) Registrar o conteúdo de L.S.E na tela
+
+3) Contar o número de elementos da lista.
+
+4) Media dos elementos da L.S.E
+
+5) Maior e menor elemento da L.S.E
+
+6) Inserir um elemento no final de uma L.S.E
+
+7) Inserir um elemento na L.S.E mantendo a mesma ordenada.(supor que a L.S.E está em ordem crescente)
+
+8) Gere uma L.S.E em ordem crescente.
+
+9) Remoção de um elemento da L.S.E. Situações:
+					-Lista vazia
+					- Lista 1 elemento
+					   Existe
+					   Não existe
+					-Lista +1 elemento
+					   Não existe
+					   Existe
+						-Inicio
+						-Meio
+						-Fim
+
+10) Criar a lista na ordem que os elementos foram digitados 
+
+11) Apagar elemento por elemento. 
+
+12)Criar duas LSE em qualquer ordem e em seguida juntar as duas em uma só LSE em ordem crescente.
+
+Tudo com e sem recursão.
+
+Boa sorte.
